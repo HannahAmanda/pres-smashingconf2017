@@ -48,7 +48,7 @@
 ---?image=https://farm5.staticflickr.com/4458/37710907496_02863e3f53_o.jpg&size=auto 90%
 ---?image=https://farm5.staticflickr.com/4486/37710901536_71958bda00_o.jpg&size=auto 90%
 
----?image=https://farm5.staticflickr.com/4474/37759537521_1f71f0f2e2_z.jpg&size=auto 90%
+---?image=https://farm5.staticflickr.com/4474/37759537521_820196685d_o.jpg&size=auto 90%
 
 ---?image=https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg&size=auto 90%
 ---?image=feelings-talk.jpg&size=auto 90%
