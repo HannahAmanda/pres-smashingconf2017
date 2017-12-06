@@ -6,7 +6,7 @@
 
 ---
 
-![alt text](../master/smashing-CAT)
+![alt text](../master/smashing-CAT.png)
 
 ---
 
