@@ -35,15 +35,15 @@
 
 ---?image=gruppe-selfie.png&size=auto 90%
 
----?image=master/bcn-metro.jpg&size=auto 90%
+---?image=bcn-metro.jpg&size=auto 90%
 
----?image=master/nam.jpg&size=auto 90%
+---?image=nam.jpg&size=auto 90%
 
----?image=master/octo.jpg&size=auto 90%
+---?image=octo.jpg&size=auto 90%
 
----?image=master/Snapchat-197882820.jpg&size=auto 90%
+---?image=Snapchat-197882820.jpg&size=auto 90%
 
----?image=master/Snapchat-197882820.jpg&size=auto 90%
+---?image=Snapchat-197882820.jpg&size=auto 90%
 
 ---
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
