@@ -43,7 +43,7 @@
 
 ---
 
----?image=[img]https://farm5.staticflickr.com/4465/23906394478_13168a8421_z.jpg&size=auto 90%
+---?image=https://farm5.staticflickr.com/4465/23906394478_13168a8421_z.jpg&size=auto 90%
 ---?image=https://farm5.staticflickr.com/4480/37501030640_bb186458cc_z.jpg&size=auto 90%
 ---?image=https://farm5.staticflickr.com/4458/37710907496_ee6b623fdc_z.jpg&size=auto 90%
 ---?image=https://farm5.staticflickr.com/4474/37759537521_1f71f0f2e2_z.jpg&size=auto 90%
