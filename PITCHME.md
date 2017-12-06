@@ -1,33 +1,21 @@
-### Hvor langt tilbake burde jeg browserteste?
+### Smashing Conference 2017 (Barcelona)?
 
 ---
 
 
-* August 2016 - Varg Veum
+* Web develeopers & web designers
 
 
 +++
-* Spurte alle jeg møtte i gangene.
+* Tverrfaglig ftw!
 
 +++
-* Nesten ingen kunne svare med sikkerhet.
+* Opphav i Smashing Magazine
 
 
 ---
 
-### Hvor skal vi med dette?
-
----
-
-### Fagportal
-
-* En verktøykasse.
-+++
-* Delt vokabular.
-+++
-* Delte forventninger.
-+++
-* Delt faglig kultur.
+### smashingmagazine.com
 
 ---
 
