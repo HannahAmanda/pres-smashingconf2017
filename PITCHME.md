@@ -34,6 +34,7 @@
 
 #### Hvor er Astrid?
 
+---?image=https://farm5.staticflickr.com/4465/23906394478_b905df21e9_o.jpg&size=auto 90%
 ---?image=nam.jpg&size=auto 90%
 ---?image=Snapchat-197882820.jpg&size=auto 90%
 ---?image=bcn-metro.jpg&size=auto 90%
@@ -42,7 +43,6 @@
 ---
 #### Var det bra, liksom?
 
----?image=https://farm5.staticflickr.com/4465/23906394478_b905df21e9_o.jpg&size=auto 90%
 ---?image=https://farm5.staticflickr.com/4480/37501030640_706be7187e_k.jpg&size=auto 90%
 
 ---?image=https://farm5.staticflickr.com/4458/37710907496_02863e3f53_o.jpg&size=auto 90%
