@@ -2,11 +2,11 @@
 
 ---
 
-![alt text](../blob/master/cat)
+![alt text](../master/cat.png)
 
 ---
 
-![alt text](../blob/master/smashing-CAT)
+![alt text](../master/smashing-CAT)
 
 ---
 
@@ -35,7 +35,7 @@
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
 
 +++
-![](../blob/master/feelings-talk.jpg)
+![](../master/feelings-talk.jpg)
 
 +++
 ![]()
