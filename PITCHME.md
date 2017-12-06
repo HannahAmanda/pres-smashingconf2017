@@ -1,7 +1,14 @@
-### Smashing Conference 2017 (Barcelona)?
+### Smashing Conference 2017 (Barcelona)
 
 ---
 
+![alt text](https://github.com/HannahAmanda/smashingconf2017/blob/master/cat.png)
+
+---
+
+![alt text](https://github.com/HannahAmanda/smashingconf2017/blob/master/smashing-CAT.png)
+
+---
 
 * Web develeopers & web designers
 
