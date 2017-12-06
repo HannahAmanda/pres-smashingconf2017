@@ -45,6 +45,13 @@
 
 ---
 #### Var det bra, liksom?
+
++++
+* Inspirerende
++++
+* Fin blanding av design og front-end
++++
+* 
 ---
 ### Brad Frost: Lets work together
 ---?image=https://farm5.staticflickr.com/4480/37501030640_706be7187e_k.jpg&size=auto 90%
@@ -60,12 +67,12 @@
 
 
 ---?image=https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg&size=auto 90%
----?image=feelings-talk.jpg&size=auto 90%
----?image=https://farm5.staticflickr.com/4452/37729139606_21c426bf56_k.jpg&size=auto 90%
+
+### Lea Verou: CSS Variable Secrets
+
+---?image=https://farm5.staticflickr.com/4498/37068506434_b313a3fec1_o.jpg&size=auto 90%
 
 
-
----
 ### Burde flere dra til neste år?
  
 ---?image=foods-in-mout.jpg&size=auto 90%
