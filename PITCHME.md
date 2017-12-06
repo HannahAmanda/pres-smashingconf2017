@@ -26,12 +26,13 @@
 ---
 
 ### En delegasjon på 5 fra Knowit
----
+---?image=gruppe-selfie.png&size=auto 90%
+
 #### Hvor er Astrid?
 +++
 ![crowd](https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg)
 
----?image=gruppe-selfie.png&size=auto 90%
+
 
 ---?image=foods-in-mout.jpg&size=auto 90%
 
