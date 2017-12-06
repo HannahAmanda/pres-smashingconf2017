@@ -37,29 +37,20 @@
 +++
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
 
-+++
-![](../master/feelings-talk.jpg)
+---?image=master/feelings-talk.jpg&size=auto 90%
 
-+++
-![](../master/gruppe-selfie.png)
+---?image=master/gruppe-selfie.png&size=auto 90%
 
-+++
-![](../master/bcn-metro.jpg)
+---?image=master/bcn-metro.jpg&size=auto 90%
 
-+++
-![](../master/nam.jpg)
+---?image=master/nam.jpg&size=auto 90%
 
-
-
-
-+++
-![](../master/octo.jpg)
-
-+++
-![](../master/Snapchat-197882820.jpg)
+---?image=master/octo.jpg&size=auto 90%
 
 ---?image=master/Snapchat-197882820.jpg&size=auto 90%
----?image=Snapchat-197882820.jpg&size=auto 90%
+
+---?image=master/Snapchat-197882820.jpg&size=auto 90%
+
 
 +++
 ![]()
