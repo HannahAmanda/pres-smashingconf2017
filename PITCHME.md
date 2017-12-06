@@ -2,11 +2,11 @@
 
 ---
 
-![alt text](../blob/master/cat.png)
+![alt text](../blob/master/cat)
 
 ---
 
-![alt text](../blob/master/smashing-CAT.png)
+![alt text](../blob/master/smashing-CAT)
 
 ---
 
