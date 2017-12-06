@@ -54,7 +54,7 @@
 > Det er kjekt med input på ting man jobber med hver dag, men ikke nødvendigvis har som hovedformål på jobb.
 ---
 
-### Hvilke har du tatt med deg tilbake til Bergen?
+### Hva har du tatt med deg tilbake til Bergen?
 +++
 *  Design principles.
 +++
