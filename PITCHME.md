@@ -31,15 +31,9 @@
 +++
 ![crowd](https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg)
 
-+++
-![](https://drive.google.com/file/d/0B9Oum0tVtEOzWmVZTHhfUzlQNFE/view?usp=sharing)
+---?image=feelings-talk.jpg&size=auto 90%
 
-+++
-![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
-
----?image=master/feelings-talk.jpg&size=auto 90%
-
----?image=master/gruppe-selfie.png&size=auto 90%
+---?image=gruppe-selfie.png&size=auto 90%
 
 ---?image=master/bcn-metro.jpg&size=auto 90%
 
@@ -51,6 +45,8 @@
 
 ---?image=master/Snapchat-197882820.jpg&size=auto 90%
 
+---
+![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
 
 +++
 ![]()
