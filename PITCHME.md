@@ -32,13 +32,20 @@
 ![crowd](https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg)
 
 +++
+![](https://drive.google.com/file/d/0B9Oum0tVtEOzWmVZTHhfUzlQNFE/view?usp=sharing)
+
+
+
+
++++
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
+
+
 
 +++
 ![](../master/feelings-talk.jpg)
 
-+++
-![]()
+
 
 +++
 ![]()
