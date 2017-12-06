@@ -51,7 +51,28 @@
 +++
 * Fin blanding av design og front-end
 +++
-* 
+> Det er kjekt med input på ting man jobber med hver dag, men ikke nødvendigvis har som hovedformål på jobb.
+---
+
+### Hvilke har du tatt med deg tilbake til Bergen?
++++
+*  Design principles.
++++
+* Inspirasjon til å dykke dypere i den kreative delen av hjernen.
++++
+* Kreativitet, UIUX handover, design system, SVG/Font intelligence
++++
+* Stickers
++++
+* Økt fortsåelse for hvor vanskelig (og hvor viktig) det er med god samarbeid på tvers av fagfelt. 
++++
+*  Design principles.
+* Inspirasjon til å dykke dypere i den kreative delen av hjernen.
+* Kreativitet, UIUX handover, design system, SVG/Font intelligence
+* Stickers
+* Økt fortsåelse for hvor vanskelig (og hvor viktig) det er med god samarbeid på tvers av fagfelt. 
+---
+### Hvilke talk fikk du mest ut av?
 ---
 ### Brad Frost: Lets work together
 ---?image=https://farm5.staticflickr.com/4480/37501030640_706be7187e_k.jpg&size=auto 90%
@@ -73,6 +94,12 @@
 ---?image=https://farm5.staticflickr.com/4498/37068506434_b313a3fec1_o.jpg&size=auto 90%
 
 
-### Burde flere dra til neste år?
+---
+### Hadde du det gøy? Var det verdt pengene til Knowit?
  
 ---?image=foods-in-mout.jpg&size=auto 90%
+### Yups.
+
+--- 
+### Talks finner du her: 
+#### https://smashingconf.com/barcelona-2017/
