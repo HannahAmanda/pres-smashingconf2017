@@ -31,9 +31,9 @@
 +++
 ![crowd](https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg)
 
----?image=feelings-talk.jpg&size=auto 90%
-
 ---?image=gruppe-selfie.png&size=auto 90%
+
+---?image=Snapchat-1682340012%20(1).jpg&size=auto 90%
 
 ---?image=bcn-metro.jpg&size=auto 90%
 
@@ -43,10 +43,12 @@
 
 ---?image=Snapchat-197882820.jpg&size=auto 90%
 
----?image=Snapchat-197882820.jpg&size=auto 90%
+
 
 ---
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
+---?image=feelings-talk.jpg&size=auto 90%
+
 
 +++
 ![]()
