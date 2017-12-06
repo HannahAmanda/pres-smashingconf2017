@@ -34,24 +34,42 @@
 +++
 ![](https://drive.google.com/file/d/0B9Oum0tVtEOzWmVZTHhfUzlQNFE/view?usp=sharing)
 
-
-
-
 +++
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
 
-
++++
+![](../master/feelings-talk.jpg
 
 +++
-![](../master/feelings-talk.jpg)
+![](../master/gruppe-selfie.png)
 
++++
+![](../master/bcn-metro.jpg)
 
++++
+![](../master/nam.jpg)
+
++++
+![](../master/Snapchat-197882820.jpg)
+
++++
+![](../master/octo.jpg)
 
 +++
 ![]()
 
 +++
 ![]()
+
++++
+![]()
+
++++
+![]()
+
++++
+![]()
+
 
 ---
 
