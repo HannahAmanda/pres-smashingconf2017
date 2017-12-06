@@ -25,7 +25,7 @@
 
 ---
 
-### En delegasjon på 5
+### En delegasjon på 5 fra Knowit
 ---
 #### Hvor er Astrid?
 +++
