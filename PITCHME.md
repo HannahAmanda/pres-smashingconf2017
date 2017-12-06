@@ -34,6 +34,9 @@
 
 #### Hvor er Astrid?
 
+---
+### Bortsett fra ... 
+
 ---?image=https://farm5.staticflickr.com/4465/23906394478_b905df21e9_o.jpg&size=auto 90%
 ---?image=nam.jpg&size=auto 90%
 ---?image=Snapchat-197882820.jpg&size=auto 90%
