@@ -6,7 +6,7 @@
 
 ---
 
-![alt text](https://github.com/HannahAmanda/smashingconf2017/blob/master/smashing-CAT)
+![alt text](https://github.com/HannahAmanda/smashingconf2017/blob/master/smashing-CAT.png)
 
 ---
 
@@ -35,7 +35,7 @@
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
 
 +++
-![]()
+![](https://github.com/HannahAmanda/smashingconf2017/blob/master/feelings-talk.jpg)
 
 +++
 ![]()
