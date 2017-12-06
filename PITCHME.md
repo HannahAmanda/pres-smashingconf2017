@@ -88,7 +88,7 @@
 ---?image=https://farm5.staticflickr.com/4498/37068506434_b313a3fec1_o.jpg&size=auto 90%
 
 
----?image=https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg&size=auto 90%
+
 ### Hadde du det gøy? Var det verdt pengene til Knowit?
  
 ---?image=foods-in-mout.jpg&size=auto 90%
