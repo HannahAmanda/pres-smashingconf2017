@@ -27,7 +27,7 @@
 
 ### En delegasjon på 5
 
-* 3 deler
+* ![](https://www.flickr.com/photos/littlemad/37777565241/in/album-72157688006583474/)
 +++
 
 * Principles & guidelines
