@@ -9,7 +9,6 @@
 ![alt text](../master/smashing-CAT.png)
 
 ---
----?image=/master/Snapchat-197882820.jpg&size=contain
 
 * Web develeopers & web designers
 
@@ -57,7 +56,7 @@
 ![](../master/octo.jpg)
 
 +++
-![]()
+![](../master/Snapchat-197882820.jpg)
 
 +++
 ![]()
