@@ -65,12 +65,7 @@
 * Stickers
 +++
 * Økt fortsåelse for hvor vanskelig (og hvor viktig) det er med god samarbeid på tvers av fagfelt. 
-+++
-*  Design principles.
-* Inspirasjon til å dykke dypere i den kreative delen av hjernen.
-* Kreativitet, UIUX handover, design system, SVG/Font intelligence
-* Stickers
-* Økt fortsåelse for hvor vanskelig (og hvor viktig) det er med god samarbeid på tvers av fagfelt. 
+
 ---
 ### Hvilke talk fikk du mest ut av?
 ---
