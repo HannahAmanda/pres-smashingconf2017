@@ -33,9 +33,6 @@
 ---?image=https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg&size=auto 90%
 #### Hvor er Astrid?
 
-
----?image=foods-in-mout.jpg&size=auto 90%
-
 ---?image=bcn-metro.jpg&size=auto 90%
 
 ---?image=nam.jpg&size=auto 90%
@@ -48,28 +45,22 @@
 
 ---
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
+
 ---?image=feelings-talk.jpg&size=auto 90%
 
+---?image=https://farm5.staticflickr.com/4452/37729139606_21c426bf56_k.jpg&size=auto 90%
+---?image=&size=auto 90%
+---?image=&size=auto 90%
+---?image=&size=auto 90%
+---?image=&size=auto 90%
+---?image=&size=auto 90%
+---?image=&size=auto 90%
+---?image=&size=auto 90%
 
-+++
-![]()
-
-+++
-![]()
-
-+++
-![]()
-
-+++
-![]()
-
-
----
 
 ### Er det bra?
+
 ---
 ### Burde flere dra til neste år?
----
  
-
-
+---?image=foods-in-mout.jpg&size=auto 90%
