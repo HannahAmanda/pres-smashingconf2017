@@ -49,7 +49,7 @@
 +++
 ![](../master/nam.jpg)
 
-+++
+
 ---?image=../master/Snapchat-197882820.jpg&size=contain
 
 +++
