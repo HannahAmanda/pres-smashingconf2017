@@ -38,7 +38,7 @@
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
 
 +++
-![](../master/feelings-talk.jpg
+![](../master/feelings-talk.jpg)
 
 +++
 ![](../master/gruppe-selfie.png)
@@ -57,6 +57,9 @@
 
 +++
 ![](../master/Snapchat-197882820.jpg)
+
+---?image=master/Snapchat-197882820.jpg&size=auto 90%
+---?image=Snapchat-197882820.jpg&size=auto 90%
 
 +++
 ![]()
