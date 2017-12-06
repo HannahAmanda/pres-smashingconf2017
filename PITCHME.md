@@ -28,7 +28,8 @@
 ### En delegasjon på 5 fra Knowit
 
 ---?image=gruppe-selfie.png&size=auto 90%
----?image=https://farm5.staticflickr.com/4463/37501044150_f6b36ffeaf_z.jpg&size=auto 90%
+
+---?image=https://farm5.staticflickr.com/4463/37501044150_a00e594241_o.jpg&size=auto 90%
 ---?image=https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg&size=auto 90%
 
 #### Hvor er Astrid?
