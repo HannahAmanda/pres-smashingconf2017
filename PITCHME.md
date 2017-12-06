@@ -33,14 +33,13 @@
 ---?image=https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg&size=auto 90%
 #### Hvor er Astrid?
 
----?image=Snapchat-197882820.jpg&size=auto 90%
 ---?image=nam.jpg&size=auto 90%
+---?image=Snapchat-197882820.jpg&size=auto 90%
 ---?image=bcn-metro.jpg&size=auto 90%
 ---?image=octo.jpg&size=auto 90%
 
-
-
-
+---
+#### Var det bra, liksom?
 
 ---
 ![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
@@ -56,8 +55,6 @@
 ---?image=&size=auto 90%
 ---?image=&size=auto 90%
 
-
-### Er det bra?
 
 ---
 ### Burde flere dra til neste år?
