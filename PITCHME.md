@@ -96,4 +96,4 @@
 
 --- 
 ### Talks finner du her: 
-#### https://smashingconf.com/barcelona-2017/
+#### [smashingconf.com/barcelona-2017](https://smashingconf.com/barcelona-2017/)
