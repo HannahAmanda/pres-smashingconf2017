@@ -6,7 +6,7 @@
 
 ---
 
-![alt text](https://github.com/HannahAmanda/smashingconf2017/blob/master/smashing-CAT.png)
+![alt text](https://github.com/HannahAmanda/smashingconf2017/blob/master/smashing-CAT)
 
 ---
 
@@ -26,22 +26,32 @@
 ---
 
 ### En delegasjon på 5
-[url=https://flic.kr/p/ZygTZK][img]https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg[/img][/url][url=https://flic.kr/p/ZygTZK]DSC04427[/url] by [url=https://www.flickr.com/photos/littlemad/]Alessio Carone[/url], on Flickr
 ---
-* ![crowd](https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg)
+#### Hvor er Astrid?
 +++
+![crowd](https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg)
 
-* Principles & guidelines
 +++
-* Show, tell, and share: Dojo
-+++
-* Fagkveld kalender
-+++
+![](https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg)
 
-* Principles & guidelines
-* Show, tell, and share: Dojo
-* Fagkveld kalender
++++
+![]()
+
++++
+![]()
+
++++
+![]()
+
++++
+![]()
 
 ---
 
-### ~~Hva~~, Hvorfor, Hvordan (og Hvem)
+### Er det bra?
+
+### Burde flere dra til neste år?
+
+### 
+
+
