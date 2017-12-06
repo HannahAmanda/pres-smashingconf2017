@@ -26,8 +26,9 @@
 ---
 
 ### En delegasjon på 5
-
-* ![](https://www.flickr.com/photos/littlemad/37777565241/in/album-72157688006583474/)
+[url=https://flic.kr/p/ZygTZK][img]https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg[/img][/url][url=https://flic.kr/p/ZygTZK]DSC04427[/url] by [url=https://www.flickr.com/photos/littlemad/]Alessio Carone[/url], on Flickr
+---
+* ![crowd](https://farm5.staticflickr.com/4510/37777565241_ca5d58686b_k.jpg)
 +++
 
 * Principles & guidelines
