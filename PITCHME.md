@@ -4,7 +4,7 @@
 
 ![alt text](../master/cat.png)
 
----
++++
 
 ![alt text](../master/smashing-CAT.png)
 
