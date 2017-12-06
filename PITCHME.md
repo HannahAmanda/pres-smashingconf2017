@@ -33,7 +33,7 @@
 
 ---?image=gruppe-selfie.png&size=auto 90%
 
----?image=Snapchat-1682340012%20(1).jpg&size=auto 90%
+---?image=foods-in-mout.jpg&size=auto 90%
 
 ---?image=bcn-metro.jpg&size=auto 90%
 
