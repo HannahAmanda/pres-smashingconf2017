@@ -12,9 +12,8 @@
 
 * Web develeopers & web designers
 
-
 +++
-* Tverrfaglig ftw!
+* Tverrfaglig
 
 +++
 * Opphav i Smashing Magazine
@@ -22,11 +21,11 @@
 
 ---
 
-### [Ssssssmashing](https://www.smashingmagazine.com/)
+### [Ssssssmashing Magazine](https://www.smashingmagazine.com/)
 
 ---
 
-### Fagportal
+### En delegasjon på 5
 
 * 3 deler
 +++
