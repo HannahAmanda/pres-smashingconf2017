@@ -41,10 +41,14 @@
 ---
 #### Var det bra, liksom?
 
----?image=https://farm5.staticflickr.com/4465/23906394478_13168a8421_z.jpg&size=auto 90%
+---?image=https://farm5.staticflickr.com/4465/23906394478_b905df21e9_o.jpg&size=auto 90%
 ---?image=https://farm5.staticflickr.com/4480/37501030640_706be7187e_k.jpg&size=auto 90%
----?image=https://farm5.staticflickr.com/4458/37710907496_ee6b623fdc_z.jpg&size=auto 90%
+
+---?image=https://farm5.staticflickr.com/4458/37710907496_02863e3f53_o.jpg&size=auto 90%
+---?image=https://farm5.staticflickr.com/4486/37710901536_71958bda00_o.jpg&size=auto 90%
+
 ---?image=https://farm5.staticflickr.com/4474/37759537521_1f71f0f2e2_z.jpg&size=auto 90%
+
 ---?image=https://farm5.staticflickr.com/4446/23924880088_d7943d80ff_k.jpg&size=auto 90%
 ---?image=feelings-talk.jpg&size=auto 90%
 ---?image=https://farm5.staticflickr.com/4452/37729139606_21c426bf56_k.jpg&size=auto 90%
