@@ -15,7 +15,7 @@
 
 ---
 
-### smashingmagazine.com
+### [Ssssssmashing](https://www.smashingmagazine.com/)
 
 ---
 
